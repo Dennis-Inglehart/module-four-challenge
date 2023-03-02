@@ -1,0 +1,14 @@
+:root{
+/*put variables here*/
+}
+
+*{
+    /* put global settings here*/
+}
+
+/* these all might never get used.... */
+.header{}
+.basal-section{}
+.question-section{}
+.answer-buttons-section{}
+.timer-and-score-section{}
