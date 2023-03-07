@@ -1,25 +1,13 @@
 # Code Quiz
 
-## Acceptance Criteria
+## Description
 
-GIVEN I am taking a code quiz
+The Code Quiz is meant to be a simple in-browser application that asks javaScript trivia questions with multiple-choice answers, gives the user a score (based on both factual accuracy and the time it takes them to answer), and keeps track of a high-score list.
 
-WHEN I click the start button
+As yet, it is far from complete!
 
-THEN a timer starts and I am presented with a question
+## Screencap
 
-WHEN I answer a question
+The Code Quiz in a normal Chrome window (not shown: impressive mouseover effect):
 
-THEN I am presented with another question
-
-WHEN I answer a question incorrectly
-
-THEN time is subtracted from the clock
-
-WHEN all questions are answered or the timer reaches 0
-
-THEN the game is over
-
-WHEN the game is over
-
-THEN I can save my initials and score
+![](./assets/module-four-challenge-screencap.png?raw=true)
